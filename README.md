@@ -2,12 +2,12 @@
 <h3 align="center">A FullStack||Flutter developer from Palestine</h3>
 
 - 🌱 I’m currently learning **JavaScript, Flutter**
-- 👀 I’m interested in Coding**
+
 - 📫 How to reach me **saeedsabra565@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Saeed Sabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeed sabra" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/saeed sabra](https://www.linkedin.com/in/saeed-sabra-578937226/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeed sabra" height="30" width="40" /></a>
 <a href="https://fb.com/saeed m sabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saeed m sabra" height="30" width="40" /></a>
 <a href="https://instagram.com/saeed.m.sabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saeed.m.sabra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saeed_sabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saeed_sabra" height="30" width="40" /></a>
