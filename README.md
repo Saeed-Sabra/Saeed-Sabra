@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saeed Mohammad Sabra</h1>
+<h1 align="center">Hi 👋, I'm Saeed Sabra</h1>
 <h3 align="center">A Front End || Flutter developer from Palestine</h3>
 
 - 🌱 I’m currently learning **Node.JS, Flutter**
