@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saeed Sabra</h1>
-<h3 align="center">A Front End || Flutter developer from Palestine</h3>
+<h3 align="center">A Full Stack || Flutter developer from Palestine</h3>
 
 - 🌱 I’m currently learning **Node.JS, Flutter**
 - 👀 I’m interested in Coding
