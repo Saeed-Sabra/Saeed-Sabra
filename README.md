@@ -6,7 +6,7 @@
 - 👀 I’m interested in Coding
 - 👨‍💻 My Portfolio available at [**Portfolio**](https://sabra-portfolio.netlify.app/)
 - 📄 Know about my experiences [**CV**](https://docs.google.com/document/d/1ylQQqhlJVKYmkBr9yDxBWMU36R9l2cjDtRzpBM1I1aI/edit)
-- 📫 How to reach me [**Email**](saeedsabra565@gmail.com)
+- 📫 How to reach me **saeedsabra565@gmail.com**
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
 <h3 align="left">Connect with me:</h3>
