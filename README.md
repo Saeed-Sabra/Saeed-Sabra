@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Node.JS, Flutter**
 - 👀 I’m interested in Coding
 - 👨‍💻 My Portfolio available at [**Portfolio**](https://sabra-portfolio.netlify.app/)
-- 📄 Know about my experiences [**CV**](https://docs.google.com/document/d/1ylQQqhlJVKYmkBr9yDxBWMU36R9l2cjDtRzpBM1I1aI/edit)
+- 📄 Know about my experiences [**CV**](https://drive.google.com/file/d/1yEMHDGbeR-Nw4KWdW3Cma9X8zZ771wgS/view?usp=sharing)
 - 📫 How to reach me **saeedsabra565@gmail.com**
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
