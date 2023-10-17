@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack || Flutter developer from Palestine</h3>
 
 # About Me:
-- 🌱 I’m currently learning **Node.JS, Flutter**
+- 🌱 I’m currently learning **React, Flutter**
 - 👀 I’m interested in Coding
 - 👨‍💻 My Portfolio available at [**Portfolio**](https://sabra-portfolio.netlify.app/)
 - 📄 Know about my experiences [**CV**](https://drive.google.com/file/d/1yEMHDGbeR-Nw4KWdW3Cma9X8zZ771wgS/view?usp=sharing)
