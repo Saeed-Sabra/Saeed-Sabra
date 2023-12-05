@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React, Flutter**
 - 👀 I’m interested in Coding
 - 👨‍💻 My Portfolio available at [**Portfolio**](https://sabra-portfolio.netlify.app/)
-- 📄 Know about my experiences [**CV**](https://drive.google.com/file/d/1yEMHDGbeR-Nw4KWdW3Cma9X8zZ771wgS/view?usp=sharing)
+- 📄 Know about my experiences [**CV**](https://drive.google.com/file/d/1vo5EkRokcdALqZD4J5gALSg-wOCHmC8d/view?usp=sharing)
 - 📫 How to reach me **saeedsabra565@gmail.com**
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
